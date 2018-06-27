@@ -1,6 +1,4 @@
 from telethon import TelegramClient, events
-import datetime
-import socks
 
 # Use your own values here
 api_id = 223471
