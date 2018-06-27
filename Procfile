@@ -1,1 +1,1 @@
-web: python telegram_api.py
+web: python telegram_api.py -p $PORT
